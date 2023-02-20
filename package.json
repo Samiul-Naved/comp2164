@@ -1,0 +1,29 @@
+{
+  "name": "comp2164",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+
+  },
+"repository":{
+  "type": "git",
+  "url": "git+https://github.com/Samiul-Naved/comp2164"
+
+},
+  "keywords": [],
+  "author": "Samiul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samiul-Naved/comp2164"
+  },
+  "homepage": "https://github.com/Samiul-Naved/comp2164#readme"
+
+
+
+
+
+
+
+}
